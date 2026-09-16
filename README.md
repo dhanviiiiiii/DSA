@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanviiiiiii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/dhanviiiiiii/DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/dhanviiiiiii/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dhanviiiiiii/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/dhanviiiiiii/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/dhanviiiiiii/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhanviiiiiii/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhanviiiiiii/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
