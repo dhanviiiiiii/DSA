@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhanviiiiiii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dhanviiiiiii/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/dhanviiiiiii/DSA/tree/master/1002-find-common-characters) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanviiiiiii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dhanviiiiiii/DSA/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/dhanviiiiiii/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1002-find-common-characters](https://github.com/dhanviiiiiii/DSA/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhanviiiiiii/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanviiiiiii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dhanviiiiiii/DSA/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/dhanviiiiiii/DSA/tree/master/1002-find-common-characters) |
 ## Math
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhanviiiiiii/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/dhanviiiiiii/DSA/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhanviiiiiii/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhanviiiiiii/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -109,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanviiiiiii/DSA/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
