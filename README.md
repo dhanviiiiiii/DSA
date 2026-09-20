@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanviiiiiii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dhanviiiiiii/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/dhanviiiiiii/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanviiiiiii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dhanviiiiiii/DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanviiiiiii/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/dhanviiiiiii/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanviiiiiii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dhanviiiiiii/DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dhanviiiiiii/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/dhanviiiiiii/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/dhanviiiiiii/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhanviiiiiii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhanviiiiiii/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/dhanviiiiiii/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/dhanviiiiiii/DSA/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhanviiiiiii/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
