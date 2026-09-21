@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhanviiiiiii/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dhanviiiiiii/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/dhanviiiiiii/DSA/tree/master/0290-word-pattern) |
 | [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/dhanviiiiiii/DSA/tree/master/0709-to-lower-case) |
 | [1002-find-common-characters](https://github.com/dhanviiiiiii/DSA/tree/master/1002-find-common-characters) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhanviiiiiii/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dhanviiiiiii/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/dhanviiiiiii/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanviiiiiii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dhanviiiiiii/DSA/tree/master/0645-set-mismatch) |
