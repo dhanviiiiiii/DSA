@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhanviiiiiii/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/dhanviiiiiii/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanviiiiiii/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dhanviiiiiii/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dhanviiiiiii/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/dhanviiiiiii/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dhanviiiiiii/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/dhanviiiiiii/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/dhanviiiiiii/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/dhanviiiiiii/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/dhanviiiiiii/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dhanviiiiiii/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dhanviiiiiii/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
