@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dhanviiiiiii/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/dhanviiiiiii/DSA/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhanviiiiiii/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dhanviiiiiii/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/dhanviiiiiii/DSA/tree/master/0692-top-k-frequent-words) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/dhanviiiiiii/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhanviiiiiii/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanviiiiiii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/dhanviiiiiii/DSA/tree/master/0567-permutation-in-string) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanviiiiiii/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhanviiiiiii/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhanviiiiiii/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dhanviiiiiii/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/dhanviiiiiii/DSA/tree/master/0713-subarray-product-less-than-k) |
