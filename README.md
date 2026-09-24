@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanviiiiiii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhanviiiiiii/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/dhanviiiiiii/DSA/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhanviiiiiii/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanviiiiiii/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dhanviiiiiii/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanviiiiiii/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhanviiiiiii/DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhanviiiiiii/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dhanviiiiiii/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dhanviiiiiii/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanviiiiiii/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhanviiiiiii/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dhanviiiiiii/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhanviiiiiii/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/dhanviiiiiii/DSA/tree/master/0566-reshape-the-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhanviiiiiii/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhanviiiiiii/DSA/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dhanviiiiiii/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
